@@ -30,9 +30,9 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 5 | 0 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 6 | 5 | 0 | 0 | 6 |
-| last180d | 2026-03-18 | 1 | 11 | 5 | 0 | 0 | 38 |
-| 360d | 2025-09-19 | 1 | 11 | 5 | 1 | 0 | 38 |
-| last720d | 2024-09-24 | 4 | 20 | 5 | 18 | 0 | 58 |
+| 30d | 2026-08-16 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 5 | 0 | 0 | 1 |
+| 90d | 2026-06-17 | 0 | 6 | 5 | 0 | 0 | 6 |
+| last180d | 2026-03-19 | 1 | 11 | 5 | 0 | 0 | 38 |
+| 360d | 2025-09-20 | 1 | 11 | 5 | 1 | 0 | 38 |
+| last720d | 2024-09-25 | 4 | 20 | 5 | 18 | 0 | 55 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for fanyi lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:08:40Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:09:51Z._
