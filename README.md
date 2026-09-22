@@ -26,12 +26,12 @@ Total: **1,318** lines of code across **20** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,553 · **Forks**: 146 · **Open issues**: 92 · **Contributors**: 19
+- **Stars**: 1,554 · **Forks**: 146 · **Open issues**: 92 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-23 | 0 | 4 | 5 | 0 | 0 | 4 |
-| last180d | 2026-03-25 | 1 | 11 | 5 | 0 | 0 | 38 |
-| 360d | 2025-09-26 | 1 | 11 | 5 | 1 | 0 | 38 |
-| last720d | 2024-10-01 | 4 | 19 | 5 | 18 | 0 | 54 |
+| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 1 |
+| 90d | 2026-06-24 | 0 | 4 | 5 | 0 | 0 | 4 |
+| last180d | 2026-03-26 | 1 | 11 | 5 | 0 | 0 | 38 |
+| 360d | 2025-09-27 | 1 | 11 | 5 | 1 | 0 | 38 |
+| last720d | 2024-10-02 | 4 | 19 | 5 | 18 | 0 | 54 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for fanyi lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:05:01Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:15:57Z._
